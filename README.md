@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
-    <!-- Bootstrap Font Icon CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-</head>
-- <h1>👋Hello World, I'm Manu Chittora</h1>
+<h1>👋Hello World, I'm Manu Chittora</h1>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/svDgWRt/education-png-23447-1.png" alt="education-png-23447-1" width="25px" height="25px" border="0" /></a>3rd Year <b>CSE</b> Undergrad from <b>NIT Jalandhar.</b>
 <br>
 <a href="https://ibb.co/rQbjjXn"><img src="https://i.ibb.co/PrTLLVB/Png-Item-1757464.png" width="25px" height="25px" alt="Png-Item-1757464" border="0"></a> A <b>Competitive Programmer</b> and a <b>Web Developer</b>.
