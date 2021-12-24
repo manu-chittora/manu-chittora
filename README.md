@@ -5,7 +5,7 @@
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/t4Lj7jT/1611079.png" alt="1611079" width="25px" height="25px" border="0"></a> I am currently learning <b>React.js</b>
 <br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Vpm169Z/Png-Item-1509167.png" alt="Png-Item-1509167"  width="25px" height="25px" border="0"></a> Lets Have a word :) <b> Connect with me at-</b>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Vpm169Z/Png-Item-1509167.png" alt="Png-Item-1509167"  width="25px" height="25px" border="0"></a> Lets Have a word :) <b> Connect with me at-</b> manuchittora@gmail.com
 <br>
         <!---
         <body>
