@@ -1,5 +1,5 @@
 <h1>👋Hello World, I'm Manu Chittora</h1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/svDgWRt/education-png-23447-1.png" alt="education-png-23447-1" width="25px" height="25px" border="0" /></a>3rd Year <b>CSE</b> Undergrad from <b>NIT Jalandhar.</b>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/svDgWRt/education-png-23447-1.png" alt="education-png-23447-1" width="25px" height="25px" border="0" /></a>4th Year <b>CSE</b> Undergrad from <b>NIT Jalandhar.</b>
 <br>
 <a href="https://ibb.co/rQbjjXn"><img src="https://i.ibb.co/PrTLLVB/Png-Item-1757464.png" width="25px" height="25px" alt="Png-Item-1757464" border="0"></a> A <b>Competitive Programmer</b> and a <b>Web Developer</b>.
 <br>
